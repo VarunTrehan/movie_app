@@ -27,12 +27,6 @@ This app allows users to browse movies, view details, select seats, and book tic
 
 ---
 
-## 📸 Screenshots
-
-> Add your app screenshots here (recommended)
-
----
-
 ## 📂 Project Structure
 
 ```
